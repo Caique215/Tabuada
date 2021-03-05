@@ -1,5 +1,5 @@
 #tabuada 
-### quem quiser vê como ficou a tabuada
+### quem quiser ver como ficou a tabuada
  
 ## Sou Aluno do Curso em video
 Aonde você estudante queira tirar ideias ou alguma informação dela !!
